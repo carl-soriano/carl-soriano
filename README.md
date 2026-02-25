@@ -1,7 +1,6 @@
-# hey!
+# hey :)
 
 ### Software Engineering | Computer Engineering
-
 
 ---
 
