@@ -17,6 +17,6 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 - **Portfolio:** [carlsoriano.netlify.app](https://carlsoriano.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/carl-soriano](https://www.linkedin.com/in/carl-soriano-b9b51a231/)
