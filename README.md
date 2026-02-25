@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Frameworks**
 
@@ -14,13 +14,6 @@
 **Tools & Environment**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vercel,figma,postman,vscode)
-
----
-
-
-### 📊 GitHub Stats
-![Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent)
 
 ---
 
